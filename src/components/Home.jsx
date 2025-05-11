@@ -17,7 +17,7 @@ function Home() {
                     </div>
                 </div>
                 <div className="right-section">
-                    <img src="./public/image.png" alt="Programmer illustration" className="programmer-illustration" />
+                    <img src="/image.png" alt="Programmer illustration" className="programmer-illustration" />
                 </div>
             </div>
         </section>
