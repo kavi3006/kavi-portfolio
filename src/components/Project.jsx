@@ -42,7 +42,7 @@ function Project() {
                     </div>
                     <div className="project-card">
                         <div className="project-image">
-                            <img src="project3.jpg" alt="Project 3"/>
+                            <img src="project3.png" alt="Project 3"/>
                         </div>
                         <div className="project-info">
                             <h3>Amazon Clone</h3>
