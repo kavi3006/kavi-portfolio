@@ -52,8 +52,8 @@ function Project() {
                                 <span>CSS</span>
                             </div>
                             <div className="project-links">
-                                <a href="#" className="btn small-btn"><i className="fas fa-link"></i> Live Demo</a>
-                                <a href="https://amazon-clone-alpha-ruddy.vercel.app/" className="btn small-btn"><i className="fab fa-github"></i> Code</a>
+                                <a href="https://amazon-clone-alpha-ruddy.vercel.app/" className="btn small-btn"><i className="fas fa-link"></i> Live Demo</a>
+                                <a href="#" className="btn small-btn" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i> Code</a>
                             </div>
                         </div>
                     </div>
