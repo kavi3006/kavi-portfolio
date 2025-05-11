@@ -70,7 +70,7 @@ function Project() {
                                 <span>Xcode</span>
                             </div>
                             <div className="project-links">
-                                <a href="./public/TicTacToe Demo.MP4" className="btn small-btn" target="_blank" rel="noopener noreferrer"><i className="fas fa-link"></i> Live Demo</a>
+                                <a href="./public/TicTacToe Demo.mp4" className="btn small-btn" target="_blank" rel="noopener noreferrer"><i className="fas fa-link"></i> Live Demo</a>
                                 <a href="https://github.com/kavi3006/TicTacToe-iOS-App" className="btn small-btn" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i> Code</a>
                             </div>
                         </div>
