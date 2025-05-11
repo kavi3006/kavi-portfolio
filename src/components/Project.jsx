@@ -59,7 +59,7 @@ function Project() {
                     </div>
                     <div className="project-card">
                         <div className="project-image">
-                            <img src="project4.jpg" alt="Project 4"/>
+                            <img src="project4.png" alt="Project 4"/>
                         </div>
                         <div className="project-info">
                             <h3>Tic Tac Toe iOS App</h3>
