@@ -24,7 +24,7 @@ function Project() {
                     </div>
                     <div className="project-card">
                         <div className="project-image">
-                            <img src="project2.jpg" alt="Project 2"/>
+                            <img src="project2.jpeg" alt="Project 2"/>
                         </div>
                         <div className="project-info">
                             <h3>WealthWise</h3>
@@ -35,8 +35,8 @@ function Project() {
                                 <span>Streamlit</span>
                             </div>
                             <div className="project-links">
-                                <a href="#" className="btn small-btn"><i className="fas fa-link"></i> Live Demo</a>
-                                <a href="#" className="btn small-btn"><i className="fab fa-github"></i> Code</a>
+                                <a href="https://wealthwise-finance.streamlit.app/" className="btn small-btn"><i className="fas fa-link"></i> Live Demo</a>
+                                <a href="https://github.com/kavi3006/WealthWise" className="btn small-btn"><i className="fab fa-github"></i> Code</a>
                             </div>
                         </div>
                     </div>
