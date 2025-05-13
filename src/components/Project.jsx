@@ -6,7 +6,7 @@ function Project() {
                 <div className="projects-grid">
                     <div className="project-card">
                         <div className="project-image">
-                            <img src="project1.jpg" alt="Project 1"/>
+                            <img src="project1.png" alt="Project 1"/>
                         </div>
                         <div className="project-info">
                             <h3>FaceTune</h3>
@@ -18,7 +18,7 @@ function Project() {
                             </div>
                             <div className="project-links">
                                 <a href="#" className="btn small-btn"><i className="fas fa-link"></i> Live Demo</a>
-                                <a href="#" className="btn small-btn"><i className="fab fa-github"></i> Code</a>
+                                <a href="https://github.com/kavi3006/FaceTune" className="btn small-btn" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i> Code</a>
                             </div>
                         </div>
                     </div>
