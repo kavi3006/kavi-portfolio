@@ -6,12 +6,7 @@ function About() {
                 <div className="about-content">
                     <div className="about-text">
                         <h3>Who am I?</h3>
-                        <p>I am a final-year Computer Science Engineering student at Vellore Institute of Technology with hands-on experience in web development and blockchain technologies.
-                            I have built projects such as a Tic Tac Toe iOS app and a facial recognition-based music recommendation system.
-                            My technical skill set includes HTML, CSS, JavaScript, and proficiency in popular JavaScript libraries.
-                            I am also familiar with Solidity and have developed smart contracts for blockchain-based applications, including NFT crowdfunding and decentralized lottery systems.
-                            With a strong foundation in software development and a passion for building innovative solutions, I'm always eager to take on new technical challenges.
-                        </p>
+                        <p>I am a Computer Science Engineering graduate from Vellore Institute of Technology with hands-on experience in web development, blockchain, and AI-driven applications. I specialize in building responsive, user-friendly web applications using technologies like React, Vite, and Streamlit. My projects range from personal finance management systems and decentralized blockchain solutions to AI-based music recommendation systems. With proficiency in Solidity, Python, JavaScript, and cloud platforms like Google Cloud and Oracle Cloud, I am passionate about creating innovative, scalable solutions and continuously learning new technologies.</p>
                     </div>
                 </div>
             </div>
