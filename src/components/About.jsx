@@ -6,7 +6,7 @@ function About() {
                 <div className="about-content">
                     <div className="about-text">
                         <h3>Who am I?</h3>
-                        <p>I am a Computer Science Engineering graduate from Vellore Institute of Technology with hands-on experience in web development, blockchain, and AI-driven applications. I specialize in building responsive, user-friendly web applications using technologies like React, Vite, and Streamlit. My projects range from personal finance management systems and decentralized blockchain solutions to AI-based music recommendation systems. With proficiency in Solidity, Python, JavaScript, and cloud platforms like Google Cloud and Oracle Cloud, I am passionate about creating innovative, scalable solutions and continuously learning new technologies.</p>
+                        <p>Computer Science Engineering graduate with hands-on experience in full-stack web development, blockchain technology, and AI/ML applications. Proven track record through internships at SettleMint and Zaalima Development, developing production-grade applications including e-commerce platforms, NFT smart contracts, and AI-powered finance management systems. Proficient in JavaScript, React.js, Python, Solidity, and cloud platforms. Strong problem-solving abilities with experience in agile development workflows, REST API development, and database management. Seeking software development opportunities to leverage technical skills in building scalable applications and contributing to innovative technology solutions.</p>
                     </div>
                 </div>
             </div>
