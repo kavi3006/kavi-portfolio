@@ -13,6 +13,16 @@ function Experience() {
                         </div>
                     </div>
                 </div>
+                <div className="timeline">
+                    <div className="timeline-item">
+                        <div className="timeline-content">
+                            <h3>Web Development Intern</h3>
+                            <h4>Zaalima Development</h4>
+                            <p className="timeline-date">May 2025 - Aug 2025</p>
+                            <p>Developed and deployed full-stack web applications with e-commerce customization, content management, secure authentication, and cloud integration.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
     )
